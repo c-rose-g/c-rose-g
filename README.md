@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Mongo.DB
+- 🤔 I’m looking for help with landing a job
+- 💬 Ask me about my recent projects
+- 📫 How to reach me: <a href="https://linkedin.com/cindyroseguzman">LinkedIn</a>
 <!--
 **c-rose-g/c-rose-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
