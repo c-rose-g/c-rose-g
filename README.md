@@ -5,16 +5,16 @@
 
 </div>
 
-<div align="right"> 
+<div align="left"> 
   
-#  Languages, frameworks, and tools
+  <h1 align="center"> Languages</h1>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py&perline=4" />     
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)  
 
-#  Frameworks and tools
+<h1 align="center"> Frameworks and tools </h1>
     
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,express,figma,flask,git,nodejs,postgres,react,redux,regex,sqlite,vscode,&perline=7" />
