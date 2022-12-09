@@ -1,9 +1,17 @@
 
-<h1 align="center"> <p> My name is Cindy Guzman </p> <p> I'm a software engineer. </p> </h1>
+<h1 align="center" font="Courier"> 
+Hey, I'm cindy! I'm a 
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=813AD2&center=true&width=435&height=50&lines=Full+Stack+Web+Developer;+Software+Development+Engineer)](https://git.io/typing-svg)
+    
+</h1>
+    
 <div>
 <img align="left" height='400px' width="400px" src='https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966' />
 
 </div>
+
+<!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE -->
 
 <div align="left"> 
   
@@ -46,7 +54,7 @@
 <a href="mailto:dev.cindyrose.go@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </div>
 <!--
-
+<p> My name is Cindy Guzman </p> <p> Thanks for stopping by my GitHub Profile. </p> 
 
 **c-rose-g/c-rose-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #  Frameworks and tools
