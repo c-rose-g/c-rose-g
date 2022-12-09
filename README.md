@@ -7,25 +7,22 @@
 
 <p align="right"> 
   
-#  Languages
+#  Languages, Frameworks and tools
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,py&perline=4" />
-    
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-      
+    <img src="https://skillicons.dev/icons?i=css,html,js,py&perline=4" />     
   </a> 
-
-  #  Frameworks and tools
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,express,figma,flask,git,nodejs,postgres,react,redux,regex,sqlite,vscode,&perline=7" />
   </a>
-  
+
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-  </p>
+
+</p>
   
 </div>
 
@@ -47,8 +44,10 @@
 <a href="mailto:dev.cindyrose.go@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </div>
 <!--
-**c-rose-g/c-rose-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+**c-rose-g/c-rose-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Frameworks and tools
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
