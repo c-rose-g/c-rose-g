@@ -15,9 +15,6 @@
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
       
   </a> 
-  </p>
-         
- <p>
 
   #  Frameworks and tools
   
