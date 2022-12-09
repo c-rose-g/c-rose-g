@@ -7,12 +7,15 @@
 
 <div align="right"> 
   
-#  Languages
+#  Languages, frameworks, and tools
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py&perline=4" />     
-  </a> 
-   
+
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)  
+
+#  Frameworks and tools
+    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,express,figma,flask,git,nodejs,postgres,react,redux,regex,sqlite,vscode,&perline=7" />
   </a>
