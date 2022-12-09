@@ -5,7 +5,7 @@
 
 
 
-<div align="right"> 
+<div align="left"> 
   
 #  Languages
   
