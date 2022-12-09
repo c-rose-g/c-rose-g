@@ -5,7 +5,7 @@
 
 </div>
 
-<div align="left"> 
+<div align="right"> 
   
 #  Languages
   
@@ -15,8 +15,6 @@
   
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)  
 
-</div>  
-<div align="left">
   
 #  Frameworks and tools 
   
