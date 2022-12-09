@@ -17,7 +17,9 @@
 
 </div>  
 <div align="left">
+  
 #  Frameworks and tools 
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,express,figma,flask,git,nodejs,postgres,react,redux,regex,sqlite,vscode,&perline=7" />
   </a>
