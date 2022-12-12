@@ -1,6 +1,6 @@
 
 <h1 align="center" font="Courier"> 
-Hey, I'm cindy! I'm a 
+Hey, I'm cindy!
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&color=813AD2&center=true&width=435&height=50&lines=I+am+a+software+engineer;+I+am+a+frontend+developer;+I+am+a+backend+developer)](https://git.io/typing-svg)
     
