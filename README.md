@@ -1,3 +1,4 @@
+<!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE -->
 
 <h1 align="center" font="Courier"> 
 Hey, I'm cindy!
@@ -11,7 +12,6 @@ Hey, I'm cindy!
 
 </div>
 
-<!-- HEY YOU! SINCE YOU'RE HERE, WHY NOT STAR THIS REPO :) OK BYE -->
 
 <div align="left"> 
   
@@ -36,14 +36,14 @@ Hey, I'm cindy!
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <h1>Stats :chart_with_upwards_trend: </h1>
   
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=c-rose-g&theme=midnight-purple&custom_title=Languages&langs_count=4&show_icons=true)
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-rose-g&count_private=true&theme=midnight-purple&custom_title=Stats&hide=contribs&line_height=40)
 </br>
 
-</div>
+</div> -->
 
 
 <h1 align="center">Connect with me!</h1>
