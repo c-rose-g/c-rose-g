@@ -16,14 +16,17 @@ Hey, I'm cindy!
 <div align="left"> 
   
   <h1 align="center"> Languages</h1>
-  
+  <div align="center">
+    
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,py,typescript&perline=7" />     
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)  
+  </div>
 
 <h1 align="center"> Frameworks and tools </h1>
-    
+<div align="center">
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,express,figma,flask,git,nodejs,postgres,react,redux,regex,sqlite,vscode,tailwindcss,heroku,mongodb&perline=7" />
   </a>
@@ -32,6 +35,7 @@ Hey, I'm cindy!
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+</div>
 
   
 </div>
