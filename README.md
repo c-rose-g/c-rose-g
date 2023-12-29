@@ -8,7 +8,7 @@ Hey, I'm cindy!
 </h1>
     
 <div>
-<img align="left" height='400px' width="400px" src='https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966' />
+<!-- <img align="left" height='400px' width="400px" src='https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966' /> -->
 
 </div>
 
@@ -18,14 +18,14 @@ Hey, I'm cindy!
   <h1 align="center"> Languages</h1>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,py&perline=4" />     
+    <img src="https://skillicons.dev/icons?i=css,html,js,py,typescript&perline=7" />     
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)  
 
 <h1 align="center"> Frameworks and tools </h1>
     
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,express,figma,flask,git,nodejs,postgres,react,redux,regex,sqlite,vscode,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,express,figma,flask,git,nodejs,postgres,react,redux,regex,sqlite,vscode,tailwindcss,heroku,mongodb&perline=7" />
   </a>
   
   
@@ -39,7 +39,7 @@ Hey, I'm cindy!
 <!-- <div align="center">
 <h1>Stats :chart_with_upwards_trend: </h1>
   
-![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=c-rose-g&theme=midnight-purple&custom_title=Languages&langs_count=4&show_icons=true)
+![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=c-rose-g&theme=midnight-purple&custom_title=Languages&langs_count=6&show_icons=true)
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-rose-g&count_private=true&theme=midnight-purple&custom_title=Stats&hide=contribs&line_height=40)
 </br>
 
